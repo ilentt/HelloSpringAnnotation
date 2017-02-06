@@ -1,8 +1,0 @@
-com\ilenlab\spring\bean\GreetingService.class
-com\ilenlab\spring\config\AppConfiguration.class
-com\ilenlab\spring\lang\impl\English.class
-com\ilenlab\spring\lang\impl\Vietnamese.class
-com\ilenlab\spring\MainProgram.class
-com\ilenlab\spring\Language.class
-com\ilenlab\spring\bean\GreetingComponent.class
-com\ilenlab\spring\bean\GreetingRepository.class
